@@ -11,10 +11,22 @@
     background: #FFBF79;
 }
 
-/* Adjust some other spans back */
+/* Adjust some other elements back */
+
+.ms-bgc-tp {
+    background: #e74624;   
+}
+
+.ms-bcl-nlr{
+    background: #f4f4f4;   
+}
+
+.ms-bcl-nl{
+    background: #eaeaea;   
+}
 
 .ms-bg-color-themeLight span {
-    background: #f4b5ab;
+   background-color: #f4b5ab;
 }
 
 .ms-bg-color-neutralLighter span {

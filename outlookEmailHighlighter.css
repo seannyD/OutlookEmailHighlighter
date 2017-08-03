@@ -14,19 +14,23 @@
 /* Adjust some other elements back */
 
 .ms-bgc-tp {
-    background: #e74624;   
+    background: #e74624;
 }
 
-.ms-bcl-nlr{
-    background: #f4f4f4;   
+.ms-bgc-td {
+    background: #cc3716;
 }
 
-.ms-bcl-nl{
-    background: #eaeaea;   
+.ms-bcl-nlr {
+    background: #f4f4f4;
+}
+
+.ms-bcl-nl {
+    background: #eaeaea;
 }
 
 .ms-bg-color-themeLight span {
-   background-color: #f4b5ab;
+    background-color: #f4b5ab;
 }
 
 .ms-bg-color-neutralLighter span {

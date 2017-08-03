@@ -1,0 +1,39 @@
+/* Change date title to black */
+
+._lvv_42 {
+    background: white;
+    color: black;
+}
+
+/* Highlight unread emails */
+
+.ms-fwt-sb {
+    background: #FFBF79;
+}
+
+/* Adjust some other spans back */
+
+.ms-bg-color-themeLight span {
+    background: #f4b5ab;
+}
+
+.ms-bg-color-neutralLighter span {
+    background: #f4f4f4;
+}
+
+.ms-bg-color-neutralLight span {
+    background: #eaeaea;
+}
+
+/* Date title background */
+
+.listItemDefaultBackground {
+    background: white;
+}
+
+/* Agenda background */
+
+.flexCenterItems {
+    background: white;
+}
+

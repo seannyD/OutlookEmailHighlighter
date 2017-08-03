@@ -16,6 +16,8 @@ Install [Stylebot for Chrome](https://chrome.google.com/webstore/detail/stylebot
 
 Login to your outlook inbox in Chrome.
 
+I'm assuming you're using the "Orange" outlook theme (can change in Settings > Theme)
+
 Click the stylebot icon in the menu (labelled "css") and click "open stylebot".
 
 Click "Edit css" button at the bottom of the window that appears.

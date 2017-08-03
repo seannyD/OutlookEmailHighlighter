@@ -5,6 +5,11 @@ I find it difficult to spot new emails on the web interface for outlook.  New em
 ![](https://github.com/seannyD/OutlookEmailHighlighter/raw/master/Screenshot.png)
 
 
+## WARNING
+
+This is completely untested and may cause unforeseen problems.  I don't recommend using it.
+
+
 ## Installation
 
 Install [Stylebot for Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en).

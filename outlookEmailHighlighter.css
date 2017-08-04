@@ -1,55 +1,56 @@
 /* Change date title to black */
 
-._lvv_42 {
+.aa, ._lvv_42 {
     background: white;
     color: black;
 }
 
 /* Highlight unread emails */
 
-.ms-fwt-sb {
+.ab, .ms-fwt-sb {
     background: #FFBF79;
 }
 
 /* Adjust some other elements back */
 
-.ms-bgc-tp {
+.ac, .ms-bgc-tp {
     background: #e74624;
 }
 
-.ms-bgc-td {
+.ad, .ms-bgc-td {
     background: #cc3716;
 }
 
-.ms-bcl-nlr {
+.ae, .ms-bcl-nlr {
     background: #f4f4f4;
 }
 
-.ms-bcl-nl {
+.af, .ms-bcl-nl {
     background: #eaeaea;
 }
 
-.ms-bg-color-themeLight span {
+.ag, .ms-bg-color-themeLight span {
     background-color: #f4b5ab;
 }
 
-.ms-bg-color-neutralLighter span {
+.ah, .ms-bg-color-neutralLighter span {
     background: #f4f4f4;
 }
 
-.ms-bg-color-neutralLight span {
+.ai, .ms-bg-color-neutralLight span {
     background: #eaeaea;
 }
 
 /* Date title background */
 
-.listItemDefaultBackground {
+.aj, .listItemDefaultBackground {
     background: white;
 }
 
 /* Agenda background */
 
-.flexCenterItems {
+.ak, .flexCenterItems {
     background: white;
 }
+
 
